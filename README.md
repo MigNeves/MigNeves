@@ -35,7 +35,7 @@ Journal of Manufacturing Systems 59 (2021) 426–440.
 
 ## 🦾 Additional contributions
 
-- **[Real-time Human-Robot Collaborative Assembly](https://github.com/Robotics-and-AI/realtime-collaborative-assembly)**  
+- **[Real-Time Human-Robot Collaborative Assembly](https://github.com/Robotics-and-AI/realtime-collaborative-assembly)**  
 Real-time collaborative assembly of the [CT Benchmark](https://github.com/Robotics-and-AI/collaborative-tasks-benchmark) with graph neural networks.
 
 - **[Kuka iiwa GUI](https://github.com/Robotics-and-AI/kuka-gui)**  
